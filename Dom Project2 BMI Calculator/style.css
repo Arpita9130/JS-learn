@@ -1,0 +1,26 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+form{
+   margin-left: 30%;
+   background-color: black;
+   color: white;
+ padding: 5%;
+   border: solid 2px ;
+   border-color: aqua;
+   border-radius: 10px;
+   max-width: fit-content;
+}
+button{
+    margin-left: 34%;
+    padding: 2%;
+    font-weight: bolder;
+    background-color:aqua;
+    border: 1px solid;
+    border-color: white;
+}
+#result{
+    color: bisque;
+}

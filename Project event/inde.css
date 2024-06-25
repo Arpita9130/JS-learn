@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    background-color: rgb(32, 32, 32);
+    color: aliceblue;
+    
+}

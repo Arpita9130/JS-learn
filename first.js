@@ -62,21 +62,22 @@ console.log(hr.toLocaleString('en-IN'));*/
 // })
 // console.log(values);
 
-const numps=[1,2,3,4]
-// // const newnum=numps.filter(
-// //   (num)=>{ return num>4}
-// // )
+// const numps=[1,2,3,4]
+// // // const newnum=numps.filter(
+// // //   (num)=>{ return num>4}
+// // // )
 
-// const newnum=[]
-// numps.forEach((num) => {
-//   if(num>4){
-//     newnum.push(num)
-//   }
-// })
-// console.log(newnum);
+// // const newnum=[]
+// // numps.forEach((num) => {
+// //   if(num>4){
+// //     newnum.push(num)
+// //   }
+// // })
+// // console.log(newnum);
 
-// const newNums=numps.map((num)=>num*10).map((num)=>num+1).filter((num)=>num>=40)
-// console.log(newNums);
+// // const newNums=numps.map((num)=>num*10).map((num)=>num+1).filter((num)=>num>=40)
+// // console.log(newNums);
 
-const mytotal=numps.reduce((acc,curr)=> acc+curr,0)
-console.log(mytotal);
+// const mytotal=numps.reduce((acc,curr)=> acc+curr,0)
+// console.log(mytotal);
+
